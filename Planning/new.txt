@@ -1,0 +1,19 @@
+User schema
+
+ID
+name : String
+phone : String
+password : String
+type : 0,1 // employee or student
+isCustomer: boolean
+isSeller: boolean
+socialLink: String
+palceID
+
+
+Place Schema
+
+Bedrooms
+Bathrooms
+Furnished
+Area (m^2)
