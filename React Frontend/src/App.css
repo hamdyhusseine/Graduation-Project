@@ -42,7 +42,7 @@ Version: 1.0
     float:right
 }
 .buttons button{
-    width: 120px
+    width: 120px;
 }
 
 .available-slots{
